@@ -8,6 +8,7 @@ A regular brick disappears when it’s hit by the ball, or breaks a little if it
 
  
 Sample Gameplay Shots:
+
   ![image](https://github.com/LAXMAND2509/BrickBreaker/assets/114348119/a3c0fef9-e54e-49b2-b23e-1160ffd3e210)
  
   ![image](https://github.com/LAXMAND2509/BrickBreaker/assets/114348119/f53ce209-6d24-4291-8308-3c27f53d37c5)
